@@ -10,7 +10,8 @@ header:
   caption: "Modified Copernicus Sentinel data 2024/Sentinel Hub"
 excerpt: "The Data, Analytics & Science Hub (DASH) is a service providing support to data scientists across Defra group."
 intro: 
-  - excerpt: "The Data, Analytics & Science Hub (DASH) is a service providing support to data scientists across Defra group."
+  - excerpt: "Browse open projects that have been powered by DASH. ETL pipelines, analyses, visualisations and interactive 
+  apps, the DASH platform allows users across Defra group to develop, build and deploy cutting edge research projects."
 feature_row:
   - image_path: /assets/images/lter_penguins.png
     alt: "placeholder image 1"
