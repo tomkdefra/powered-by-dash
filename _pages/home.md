@@ -1,5 +1,5 @@
 ---
-title: "DASH"
+title: "Proof of Concept"
 layout: splash
 permalink: /
 date: 2024-07-31T16:38
@@ -8,34 +8,33 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/2024-07-10-00_00_2024-07-10-23_59_Sentinel-1_AWS-IW-VVVH_SAR_urban (1).jpg
   caption: "Modified Copernicus Sentinel data 2024/Sentinel Hub"
-excerpt: "The Data, Analytics & Science Hub (DASH) is a service providing support to data scientists across Defra group."
+excerpt: "This is a proof of concept for a website"
 intro: 
-  - excerpt: "Browse open projects that have been powered by DASH. ETL pipelines, analyses, visualisations and interactive 
-  apps, the DASH platform allows users across Defra group to develop, build and deploy cutting edge research projects."
+  - excerpt: "Browse the tiles below for more information on the projects."
 feature_row:
   - image_path: /assets/images/lter_penguins.png
     alt: "placeholder image 1"
     title: "Penguins!"
-    excerpt: "Everybody's favourite dashboard"
+    excerpt: "Everybody's favourite bird?"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Screenshot_16-8-2024_13146_dap-prd2-connect.azure.defra.cloud.jpeg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "A DASH Project"
+    title: "A Project"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2023-09-04-00_00_2023-09-04-23_59_Sentinel-2_L2A_True_color.jpg
-    title: "A DASH Project"
-    excerpt: "Earth Observation on DASH"
+    title: "A different Project"
+    excerpt: "Earth Observation Science"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/Screenshot_16-8-2024_131136_dap-prd2-connect.azure.defra.cloud.jpeg
+  - image_path: /assets/images/
     alt: "placeholder image 2"
     title: "English chalk streams"
     excerpt: 'This is some longer sample content that goes here with **Markdown** formatting. 
@@ -46,13 +45,13 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/Screenshot_16-8-2024_131213_dap-prd2-connect.azure.defra.cloud.jpeg
     alt: "placeholder image 2"
-    title: "Another DASH project"
+    title: "Another project"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/Screenshot_16-8-2024_131239_dap-prd2-connect.azure.defra.cloud.jpeg
+  - image_path: /assets/images/
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
